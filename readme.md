@@ -20,10 +20,10 @@ run NAT.m and the other files are referenced automatically.
   7. Differentiation tool (Richardson Extrapolation)
   
 ![Differentiation tool] https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/diff.png) 
-![alIntegration tool](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/integ.png) 
-![interpolation example](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/interp 1.png) 
-![interpolation example](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/interp 2.png) 
-![interpolation newton](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/newton interpolation.png) 
+![alIntegration_tool](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/integ.png) 
+![interpolation_example](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/interp 1.png) 
+![interpolation_example](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/interp 2.png) 
+![interpolation_newton](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/newton interpolation.png) 
 ![ode](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/ode.png) 
 ![pde](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/pde.png) 
  
