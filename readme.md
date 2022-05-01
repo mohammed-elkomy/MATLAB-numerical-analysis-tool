@@ -19,7 +19,7 @@ run NAT.m and the other files are referenced automatically.
   6. Newton backward
   7. Differentiation tool (Richardson Extrapolation)
   
-![Differentiation tool] https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/diff.png) 
+![Differentiation tool](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/diff.png) 
 ![alIntegration tool](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/integ.png) 
 
 ![interpolation example](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/interp%201.png) 
