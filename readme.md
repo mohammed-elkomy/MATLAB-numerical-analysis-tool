@@ -19,6 +19,9 @@ run NAT.m and the other files are referenced automatically.
   6. Newton backward
   7. Differentiation tool (Richardson Extrapolation)
   
+![alt text](https://github.com/mohammed-elkomy/MATLAB-numerical-analysis-tool/blob/master/imgs/diff.png) 
+
+ 
 ## Integration tool 
 Performing numerical integration using gaussian quadrature
 
